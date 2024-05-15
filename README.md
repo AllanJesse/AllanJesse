@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AllanJesse
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android Development through Fluter
+- 🌱 I’m currently learning Android Development through Flutter
 - 💞️ I’m looking to collaborate on laravel and flutter
 - 📫 How to reach me on whatsapp: +255717407501
 
